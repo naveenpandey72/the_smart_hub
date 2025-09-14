@@ -1,1 +1,1 @@
-# the_smart_hub
+# The Smart Hub
